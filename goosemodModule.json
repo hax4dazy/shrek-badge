@@ -1,0 +1,8 @@
+{
+"main": "shrek.js",
+"version": "1.0.0",
+"name": "shrek",
+"description": "Adds shrek as a badge on the users profile",
+"tags": ["ui", "badge"],
+"authors": ["302734867425132545"]
+}
